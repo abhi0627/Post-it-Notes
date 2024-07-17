@@ -4,12 +4,12 @@ import NotesList from './components/NotesList';
 import Search from './components/Search';
 import Header from './components/Header';
 import './index.css';
-
+kaka
 const App = () => {
 	const [notes, setNotes] = useState([
 		{
 			id: nanoid(),
-			text: 'Hello ram this is my first note!',
+			text: 'Hello mom this is my first note!',
 			date: '15/04/2021',
 		},
 		
@@ -85,3 +85,4 @@ const App = () => {
 };
 
 export default App;
+hey abhi
